@@ -11,9 +11,9 @@ if len(n) != 3:
     print("Введено не 3-х значное число")
     exit()
 else:
-    summa = 0
+    result = 0
 for i in range(len(n)):
-    summa = summa + int(n[i])
+    result = result + int(n[i])
 i = +1
-print(f"{n} ->  {summa} ({n[0]} + {n[1]} + {n[2]}) ")
+print(f"{n} ->  {result} ({n[0]} + {n[1]} + {n[2]}) ")
 #print(f"{n} ->  {int(n[0]) + int(n[1]) + int(n[2])} ({n[0]} + {n[1]} + {n[2]} ) ")
