@@ -15,3 +15,4 @@ for i in range(1000):
         y = y + 1
         if x + y == s and x * y == p:
             print(f"Вы загадали числа {x} и {y}")
+            
