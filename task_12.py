@@ -9,9 +9,9 @@ print("Загадайте 2 числа от 1 до 1000 ")
 s = int(input("Введите сумму этих чисел  "))
 p = int(input("Введите произведение этих чисел  "))
 x, y = 0, 0
-for i in range(1000):
+for x in range(1000):
     x = x + 1
-    for j in range(1000):
+    for y in range(1000):
         y = y + 1
         if x + y == s and x * y == p:
             print(f"Вы загадали числа {x} и {y}")
