@@ -33,3 +33,4 @@ for i in word_up:
     count = count + letters.get(i)
 print(f" В слове {word} - {count} баллов")
 
+

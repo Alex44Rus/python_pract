@@ -32,3 +32,4 @@ def func(x, y):
 x = float(input("Что будем делить?   "))
 y = float(input("На что будем делить?  "))
 func(x, y)
+
