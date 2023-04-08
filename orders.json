@@ -1,0 +1,46 @@
+{
+    "orders": [
+        {
+            "item": "\u0420\u0457\u0421\u0402\u0420\u0451\u0420\u0405\u0421\u201a\u0420\u00b5\u0421\u0402",
+            "quantity": "10",
+            "price": "6700",
+            "buyer": "Ivanov I.I.",
+            "date": "24.09.2017"
+        },
+        {
+            "item": "scaner",
+            "quantity": "20",
+            "price": "10000",
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018"
+        },
+        {
+            "item": "scaner",
+            "quantity": "20",
+            "price": "10000",
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018"
+        },
+        {
+            "item": "scaner",
+            "quantity": "20",
+            "price": "10000",
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018"
+        },
+        {
+            "item": "Remy Martin XO",
+            "quantity": 1,
+            "price": 4500,
+            "buyer": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+            "date": "07.04.2023"
+        },
+        {
+            "item": "Remy Martin XO",
+            "quantity": 1,
+            "price": 4500,
+            "buyer": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+            "date": "07.04.2023"
+        }
+    ]
+}
